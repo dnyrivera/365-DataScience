@@ -69,12 +69,12 @@ Ask the user to input their name. Check the length of the name. If it is
 greater than 5 characters long, write a message telling them how many characters
 otherwise write a message saying the length of their name is a secret
 """
-user_name = input("Input your name : ")
+# user_name = input("Input your name : ")
 
-if len(user_name) >= 5:
-    print(f"Your name contains {len(user_name)} characters ")
-else:
-    print("I'm not telling you the length of your name")
+# if len(user_name) >= 5:
+#     print(f"Your name contains {len(user_name)} characters ")
+# else:
+#     print("I'm not telling you the length of your name")
 
 
 """
